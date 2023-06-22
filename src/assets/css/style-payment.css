@@ -1,0 +1,47 @@
+.payment .title {
+    font-size: 32px;
+}
+
+.payment-method-wrapper .btn-payment-method {
+    border: 1px solid #DEE2E6;
+    background-color: #FFFFFF;
+}
+
+.payment-method-wrapper .btn-payment-method:hover {
+    border: 1px solid #3E37A9;
+    background-color: #FFFFFF;
+}
+
+.payment-method-wrapper .btn-payment-method:focus {
+    border: 1px solid #3E37A9;
+    background-color: #FFFFFF;
+}
+
+.payment-method-wrapper .payment-method-header {
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+.payment-method-wrapper .accordion-button:not(.collapsed){
+    background-color: #FFFFFF;
+    color: #252525;
+}
+
+.payment .checkout-detail {
+    font-size: 20px;
+    font-family: 'Poppins-Medium';
+    color: rgba(18, 18, 18, 0.5);
+}
+
+.payment #price-total {
+    color: #891010;
+}
+
+.payment .btn-link:hover {
+    color: #6e67cf;
+}
+
+.payment .btn-checkout:hover {
+    background-color: #6e67cf;
+    color: #FFFFFF;
+}

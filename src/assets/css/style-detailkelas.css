@@ -1,0 +1,25 @@
+.bg-grey {
+    background-color: #e1e3e3;
+  }
+  main {
+    min-height: 100vh;
+  }
+  img {
+    max-width: 100%;
+  }
+  .data-kelas-wrapper {
+    font-size: 0.65rem;
+    background: #e1e3e3;
+    text-align: center;
+  }
+  .btn-dftr {
+    width: 100%;
+    background-color: #4b0e96 !important;
+    border: none !important;
+  }
+  .kelas-type-wrapper#coding {
+    background: rgba(150, 73, 166, 0.5);
+    color: #5f0273;
+    text-align: center;
+    font-size: 0.8rem;
+  }

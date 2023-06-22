@@ -1,0 +1,38 @@
+ul .active {
+  color: #3e37a9;
+}
+
+.navlink {
+  color: #252525;
+  font-size: 16px;
+  font-family: "PoppinsMedium";
+  text-decoration: none;
+}
+
+.navlink:hover {
+  color: #3e37a9;
+}
+
+.btn.btn.btn-signup a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.btn.btn-signup:hover {
+  background-color: #6e67cf;
+  color: #ffffff;
+}
+
+.btn-wrapper-none {
+  display: none !important;
+}
+
+.btn-wrapper-2 .btn-profile a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.btn.btn-profile:hover {
+  background-color: #6e67cf;
+  color: #ffffff;
+}

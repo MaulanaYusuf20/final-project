@@ -1,0 +1,24 @@
+.btn-outline-joincourse {
+    padding: 8px 12px;
+    background-color: transparent;
+    border: 2px solid #3e37a9;
+    color: #3e37a9;
+  }
+  
+  .btn-outline-joincourse:hover {
+    padding: 8px 12px;
+    background-color: transparent;
+    border: 2px solid #6e67cf;
+    color: #6e67cf;
+  }
+  
+  .btn-joincourse {
+    padding: 8px 12px;
+    background-color: #3e37a9;
+    color: white;
+  }
+  
+  .btn-joincourse:hover {
+    background-color: #6e67cf;
+    color: white;
+  }

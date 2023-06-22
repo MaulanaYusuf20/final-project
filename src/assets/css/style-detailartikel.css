@@ -1,0 +1,39 @@
+.content h2 {
+  font-size: 28px;
+  font-family: "Poppinsbold";
+}
+.content p {
+  margin-bottom: 20px;
+  font-size: 14px;
+  text-align: justify;
+  font-family: "Poppins";
+}
+
+.link-breadcrumb {
+  font-size: 16px;
+  text-decoration: none;
+  color: #3e37a9;
+}
+
+.link-breadcrumb:hover {
+  font-size: 16px;
+  text-decoration: none;
+  color: #6e67cf;
+}
+
+.current-breadcrumb {
+  font-size: 16px;
+  text-decoration: none;
+  color: #3e37a9;
+}
+
+#daun {
+  position: absolute;
+  right: 0;
+}
+
+#ranting {
+  position: absolute;
+  left: 0;
+  margin-top: -15%;
+}

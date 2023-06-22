@@ -1,0 +1,194 @@
+@media (max-width: 576px) {
+  body {
+    padding: 0px 8px !important;
+  }
+
+  /* Landing */
+  .bg-scroll {
+    display: none;
+  }
+
+  .highlight img {
+    margin-top: 2rem;
+  }
+
+  .highlight .title {
+    font-size: 32px;
+  }
+
+  .highlight .paragraph {
+    font-size: 14px;
+  }
+
+  #btn-highlight {
+    padding: 8px 12px;
+    font-size: 16px;
+  }
+
+  .learning .row {
+    padding: 1rem;
+  }
+
+  .learning .tag {
+    margin-top: 1rem;
+  }
+
+  .learning .paragraph {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "PoppinsMedium";
+  }
+
+  .learning .learning-grid .row {
+    display: flex;
+    justify-content: center;
+  }
+
+  .report .container {
+    padding: 2rem;
+  }
+
+  #btn-report {
+    font-size: 12px;
+    width: 100%;
+  }
+
+  .report img {
+    display: none;
+  }
+
+  .lesson {
+    font-size: 9px !important;
+  }
+
+  .class .left-twig {
+    display: none;
+  }
+
+  footer .footer-list {
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+
+  /* Profile */
+
+  .profile .bg-profile {
+    height: 100px;
+    width: 100%;
+  }
+
+  .profile .button-text {
+    font-size: 9px !important;
+  }
+
+  .profile .image-wrapper {
+    margin-top: -60px !important;
+  }
+
+  .profile #avatar {
+    width: 100px;
+  }
+
+  .profile .btn-edit-profile {
+    width: 100px;
+  }
+
+  .profile .setting-icons {
+    width: 14px;
+  }
+
+  .profile .tag-name {
+    font-size: 16px !important;
+  }
+
+  .profile .campus {
+    font-size: 14px !important;
+  }
+
+  .profile .card-level {
+    background-image: none;
+    background-color: #1b0d44;
+  }
+
+  .profile .tagline-level {
+    font-size: 14px !important;
+    margin-left: 0 !important;
+  }
+
+  .profile .my-3 {
+    margin-bottom: 0 !important;
+  }
+
+  .profile .line-level {
+    width: 100% !important;
+  }
+
+  .profile .level-status {
+    font-size: 32px !important;
+  }
+
+  .col-rev {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  /* Login / Register */
+  .bg-login-register {
+    display: none;
+  }
+
+  .form-header {
+    width: 75% !important;
+  }
+
+  .login .register-label {
+    font-size: 12px;
+  }
+
+  .login .register-link {
+    font-size: 12px;
+  }
+
+  .register .register-label {
+    font-size: 12px;
+  }
+
+  .register .register-link {
+    font-size: 12px;
+  }
+
+  /* Detail Artikel */
+
+  #ranting {
+    display: none;
+  }
+
+  #daun {
+    display: none;
+  }
+
+  .detail-content {
+    width: 100vw !important;
+  }
+
+  /* award */
+
+  .award .card-award {
+    background-image: none;
+    background-color: #1b0d44;
+    border-radius: 8px;
+  }
+
+  .award .tagline-reward {
+    font-size: 14px !important;
+    margin-left: 0 !important;
+  }
+
+  .award .line-award {
+    width: 100% !important;
+  }
+
+  .award .award-status {
+    font-size: 32px !important;
+  }
+}

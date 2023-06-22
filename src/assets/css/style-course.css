@@ -1,0 +1,100 @@
+.course-banner {
+  background-image: url("../images/course-banner.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.banner-wrapper {
+  margin-top: 120px;
+  margin-bottom: 120px;
+  padding-left: 24px;
+}
+
+.course-list .title-banner {
+  font-size: 32px;
+  font-family: "PoppinsMedium";
+}
+
+.course-list .sub-title-banner {
+  font-size: 16px;
+  font-family: "PoppinsMedium";
+}
+
+.course-list {
+  margin-top: 200px;
+}
+
+.course-list .tag {
+  font-size: 18px;
+  font-family: "PoppinsMedium";
+}
+
+.course-list .title {
+  font-size: 32px;
+  font-family: "PoppinsBold";
+}
+
+.course-list .title-1 {
+  font-size: 24px;
+  font-family: "PoppinsMedium";
+}
+
+.course-list .paragraph {
+  font-size: 16px;
+  font-family: "PoppinsLight";
+}
+
+.course-list .card-thumbnail {
+  object-fit: contain;
+  overflow: hidden;
+}
+
+.course-list .border-card {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.card-body {
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.badge-text {
+  font-size: 16px;
+  font-family: "PoppinsRegular";
+}
+
+.lesson {
+  font-size: 12px;
+  font-family: "PoppinsLight";
+  color: #121212;
+}
+
+.lesson:hover {
+  color: #121212;
+}
+
+.price-class-card {
+  font-size: 14px;
+  font-family: "PoppinsBold";
+}
+
+.lesson-wrapper {
+  border-radius: 8px;
+}
+
+.btn-class {
+  padding: 12px 18px;
+  width: 100%;
+  font-size: 16px;
+  font-family: "PoppinsMedium";
+}
+
+.btn-class:hover {
+  background-color: #6e67cf;
+  color: #ffffff;
+}

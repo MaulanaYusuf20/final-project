@@ -1,0 +1,26 @@
+.sidebar-wrapper {
+  background-color: #ffffff;
+}
+
+.sidebar-items span {
+  font-family: "PoppinsMedium";
+  font-size: 16px;
+}
+
+.sidebar-link {
+  text-decoration: none;
+  color: #838383;
+  border-left: 4px solid #ffffff;
+}
+
+.sidebar-link:hover {
+  text-decoration: none;
+  color: #3e37a9;
+  border-left: 4px solid #ffffff;
+}
+
+.sidebar-wrapper .active {
+  text-decoration: none;
+  color: #3e37a9;
+  border-left: 4px solid #3e37a9;
+}

@@ -1,0 +1,58 @@
+.btn-img {
+  background: #3e37a9;
+  color: white;
+  border: none;
+}
+.input-wrapper > input {
+  border: 1pt solid grey;
+  margin-top: 0.5rem;
+}
+.input-wrapper {
+  margin-top: 1rem;
+}
+.dtl.active {
+  color: #3e37a9;
+  border-left: 2pt solid #3e37a9;
+}
+.dtl {
+  padding: 0.5rem;
+  color: grey;
+  margin: 1rem;
+  font-size: 1.2rem;
+}
+.avatar {
+  border-radius: 50%;
+}
+@media screen and (max-width: 992px) {
+  .dtl {
+    border-bottom: 2pt solid grey;
+    border-left: none;
+    font-size: 1rem;
+  }
+  .dtl.active {
+    border-bottom: 2pt solid #3e37a9;
+    border-left: none;
+  }
+}
+
+.title-password {
+  font-family: "Poppins-Medium";
+  background: #e4b55c;
+}
+
+.password-container {
+  position: relative;
+}
+.show-eye {
+  position: absolute;
+  display: flex;
+  font-size: 1.2rem;
+  right: 2%;
+  align-items: center;
+  top: 0;
+  bottom: 0;
+  cursor: pointer;
+}
+a {
+ color: grey;
+}

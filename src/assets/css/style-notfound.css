@@ -1,0 +1,12 @@
+.btn-notfound:hover {
+  background-color: #6e67cf;
+  color: #ffffff;
+}
+
+.page-not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
