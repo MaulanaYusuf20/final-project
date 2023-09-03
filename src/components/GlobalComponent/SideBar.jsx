@@ -17,7 +17,7 @@ const SideBar = () => {
       <div className="row">
         <div className="col-12">
           <div className="sidebar-wrapper rounded shadow-sm p-3">
-            <NavLink
+            {/* <NavLink
               to="/underdestruction"
               className="sidebar-link d-flex my-3"
             >
@@ -25,7 +25,7 @@ const SideBar = () => {
                 <i className="fa fa-chart-line fa-fw"></i>
                 <span className="ms-2">Dasboard</span>
               </div>
-            </NavLink>
+            </NavLink> */}
             <NavLink
               to="/account/mycourse"
               className="sidebar-link d-flex my-3"

@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 
 const Checkout = ({ data }) => {
@@ -11,7 +11,6 @@ const Checkout = ({ data }) => {
       icon: "success",
       confirmButtonText: "OK",
     }).then(function () {
-      
       navigate("/joincourse");
     });
   };
@@ -36,14 +35,16 @@ const Checkout = ({ data }) => {
           >
             Bayar
           </button>
-          <button className="btn btn-link w-100 text-decoration-none color-alternative poppins-medium my-2">
+          <Link
+            to="/course"
+            className="btn btn-link w-100 text-decoration-none color-alternative poppins-medium my-2"
+          >
             Batalkan Pembayaran
-          </button>
+          </Link>
         </div>
       )}
     </>
   );
 };
-
 
 export default Checkout;

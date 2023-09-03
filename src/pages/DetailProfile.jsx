@@ -50,7 +50,7 @@ function DetailProfile() {
               >
                 <FaUser /> Detail Profile
               </div>
-              <div
+              {/* <div
                 className={`fw-bold dtl poppins  ${
                   TabIdx === 1 ? "active" : ""
                 }`}
@@ -58,7 +58,7 @@ function DetailProfile() {
                 role="button"
               >
                 <FaUserTag /> Akun
-              </div>
+              </div> */}
               <div
                 className={`fw-bold dtl poppins  ${
                   TabIdx === 2 ? "active" : ""
